@@ -1,0 +1,75 @@
+/*--- ixla WebEasy Document Style ---*/
+
+*                   { /* All Elements */
+	margin          : 0px;
+	padding         : 0px;
+	}
+a:link              { /* Document Links */
+	color           : #0000FF;
+	}
+a:visited           { /* Visited Links */
+	color           : #800080;
+	}
+a:hover             { /* Hover Links */
+	color           : #FF0000;
+	}
+a:active            { /* Active Links */
+	color           : #FF0000;
+	}
+ol,ul               { /* All Lists */
+	margin          : 1em;
+	padding-left    : 2em;
+	}
+p                   { /* All Paragraphs */
+	margin-bottom   : 1em;
+	}
+.address            {
+	color           : #000000;
+	font            : 10pt 'MS UI Gothic', 'MS UI Gothic', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3',  sans-serif;
+	}
+.citation           {
+	color           : #000000;
+	font            : italic 12pt 'MS UI Gothic', 'MS UI Gothic', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3',  sans-serif;
+	}
+.code               {
+	color           : #000080;
+	font            : 12pt '‚l‚r ‚o–¾’©', '‚l‚r ‚o–¾’©', '×–¾’©‘Ì', 'ƒqƒ‰ƒMƒm–¾’© Pro W3', serif;
+	}
+.emphasis           {
+	color           : #000000;
+	font            : bold 12pt 'MS UI Gothic', 'MS UI Gothic', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3',  sans-serif;
+	}
+.heading1           {
+	color           : #000000;
+	font            : bold 24pt '‚l‚r ‚oƒSƒVƒbƒN', '‚l‚r ‚oƒSƒVƒbƒN', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', sans-serif;
+	}
+.heading2           {
+	color           : #000000;
+	font            : bold 20pt '‚l‚r ‚oƒSƒVƒbƒN', '‚l‚r ‚oƒSƒVƒbƒN', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', sans-serif;
+	}
+.heading3           {
+	color           : #000000;
+	font            : 18pt '‚l‚r ‚oƒSƒVƒbƒN', '‚l‚r ‚oƒSƒVƒbƒN', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', sans-serif;
+	}
+.heading4           {
+	color           : #000000;
+	font            : italic 16pt '‚l‚r ‚oƒSƒVƒbƒN', '‚l‚r ‚oƒSƒVƒbƒN', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', sans-serif;
+	}
+.heading5           {
+	color           : #000000;
+	font            : 14pt '‚l‚r ‚oƒSƒVƒbƒN', '‚l‚r ‚oƒSƒVƒbƒN', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', sans-serif;
+	}
+.heading6           {
+	color           : #000000;
+	font            : 12pt '‚l‚r ‚oƒSƒVƒbƒN', '‚l‚r ‚oƒSƒVƒbƒN', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', sans-serif;
+	}
+.sly                { /* Special */
+	display         : none;
+	}
+.small              {
+	color           : #000000;
+	font            : 10pt 'MS UI Gothic', 'MS UI Gothic', Osaka, 'ƒqƒ‰ƒMƒmŠpƒS Pro W3',  sans-serif;
+	}
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,67 @@
+/*--- ixla WebEasy Page Style ---*/
+
+
+.cc70               { /* Common */
+	font            : 22pt 'Impact';
+	color           : #800000;
+	}
+.cc71               { /* Common */
+	font            : 22pt 'Impact';
+	color           : #ff0000;
+	}
+.cc72               { /* Common */
+	border          :   0.00pt solid #800000;
+	clip            : rect(0.00pt,865.50pt,3.75pt,0.00pt);
+	}
+span#e6             { /* jyoutyaku019003.jpg */
+	background      : transparent url(jyoutyaku019003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 121.50pt;
+	top             :  36.00pt;
+	width           : 637.50pt;
+	height          : 876.75pt;
+	}
+div#e5              { /* TOP */
+	position        : absolute;
+	left            : 420.75pt;
+	top             : 948.75pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e4              { /* NEXT */
+	position        : absolute;
+	left            : 498.00pt;
+	top             : 950.25pt;
+	width           :  52.50pt;
+	height          :  27.75pt;
+	}
+div#e3              { /* BACK */
+	position        : absolute;
+	left            : 330.00pt;
+	top             : 948.75pt;
+	width           :  52.50pt;
+	height          :  27.00pt;
+	}
+span#e2             { /* jyoutyaku019002.gif */
+	background      : transparent url(jyoutyaku019002.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             :  34.50pt;
+	width           : 865.50pt;
+	height          :   3.75pt;
+	}
+div#e1              { /* ípêJÇÃèˆíÖèóëï\ */
+	background      : transparent url(jyoutyaku019001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   5.25pt;
+	top             :  17.25pt;
+	width           : 141.00pt;
+	height          :  38.25pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000124;
+	}
+
+
+
+/*--- EndOfFile ---*/

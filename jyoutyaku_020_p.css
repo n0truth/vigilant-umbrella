@@ -1,0 +1,78 @@
+/*--- ixla WebEasy Page Style ---*/
+
+
+.cc73               { /* Common */
+	border          :   0.00pt solid #000028;
+	}
+.cc74               { /* Common */
+	font            : 22pt 'Impact';
+	color           : #800000;
+	}
+.cc75               { /* Common */
+	font            : 22pt 'Impact';
+	color           : #ff0000;
+	}
+.cc76               { /* Common */
+	border          :   0.00pt solid #800000;
+	clip            : rect(0.00pt,865.50pt,3.75pt,0.00pt);
+	}
+span#e7             { /* jyoutyaku020004.jpg */
+	background      : transparent url(jyoutyaku020004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 105.75pt;
+	top             :  35.25pt;
+	width           : 637.50pt;
+	height          : 876.75pt;
+	}
+span#e6             { /* jyoutyaku020003.gif */
+	background      : transparent url(jyoutyaku020003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 741.00pt;
+	top             :  27.00pt;
+	width           :   5.25pt;
+	height          : 475.50pt;
+	}
+div#e5              { /* TOP */
+	position        : absolute;
+	left            : 383.25pt;
+	top             : 951.00pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e4              { /* NEXT */
+	position        : absolute;
+	left            : 460.50pt;
+	top             : 952.50pt;
+	width           :  52.50pt;
+	height          :  27.75pt;
+	}
+div#e3              { /* BACK */
+	position        : absolute;
+	left            : 292.50pt;
+	top             : 951.00pt;
+	width           :  52.50pt;
+	height          :  27.00pt;
+	}
+span#e2             { /* jyoutyaku020002.gif */
+	background      : transparent url(jyoutyaku020002.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             :  34.50pt;
+	width           : 865.50pt;
+	height          :   3.75pt;
+	}
+div#e1              { /* ípêJÇÃèˆíÖèóëï\ */
+	background      : transparent url(jyoutyaku020001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   5.25pt;
+	top             :  17.25pt;
+	width           : 141.00pt;
+	height          :  38.25pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000124;
+	}
+
+
+
+/*--- EndOfFile ---*/

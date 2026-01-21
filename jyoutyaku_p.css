@@ -1,0 +1,101 @@
+/*--- ixla WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt solid #000024;
+	clip            : rect(0.00pt,653.25pt,15.75pt,0.00pt);
+	}
+.cc02               { /* Common */
+	font            : 22pt 'Impact';
+	color           : #800000;
+	}
+.cc03               { /* Common */
+	font            : 22pt 'Impact';
+	color           : #ff0000;
+	}
+.cc04               { /* Common */
+	border          :   0.00pt solid #800000;
+	clip            : rect(0.00pt,865.50pt,3.75pt,0.00pt);
+	}
+.cc05               { /* Common */
+	border          :   0.00pt solid #000028;
+	}
+.cc06               { /* Common */
+	font            : bold 60pt 'HGSñæí©B';
+	color           : #800000;
+	}
+span#e9             { /* jyoutyaku001005.jpg */
+	background      : transparent url(jyoutyaku001005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 126.00pt;
+	top             :  35.25pt;
+	width           : 637.50pt;
+	height          : 876.75pt;
+	}
+span#e8             { /* jyoutyaku001004.gif */
+	background      : transparent url(jyoutyaku001004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 113.25pt;
+	top             :  50.25pt;
+	width           : 653.25pt;
+	height          :  15.75pt;
+	}
+div#e7              { /* TOP */
+	position        : absolute;
+	left            : 414.00pt;
+	top             : 963.00pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e6              { /* NEXT */
+	position        : absolute;
+	left            : 491.25pt;
+	top             : 964.50pt;
+	width           :  52.50pt;
+	height          :  27.75pt;
+	}
+div#e5              { /* BACK */
+	position        : absolute;
+	left            : 323.25pt;
+	top             : 963.00pt;
+	width           :  52.50pt;
+	height          :  27.00pt;
+	}
+span#e4             { /* jyoutyaku001003.gif */
+	background      : transparent url(jyoutyaku001003.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             :  34.50pt;
+	width           : 865.50pt;
+	height          :   3.75pt;
+	}
+div#e3              { /* ípêJÇÃèˆíÖèóëï\ */
+	background      : transparent url(jyoutyaku001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 361.50pt;
+	top             :  12.75pt;
+	width           : 161.25pt;
+	height          :  30.75pt;
+	}
+span#e2             { /* jyoutyaku001001.gif */
+	background      : transparent url(jyoutyaku001001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 129.00pt;
+	top             : 772.50pt;
+	width           : 475.50pt;
+	height          :  82.50pt;
+	}
+div#e1              { /* ípêJÇÃèˆíÖèóëï */
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 789.75pt;
+	width           : 446.25pt;
+	height          :  60.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000124;
+	}
+
+
+
+/*--- EndOfFile ---*/

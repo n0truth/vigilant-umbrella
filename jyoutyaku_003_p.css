@@ -1,0 +1,79 @@
+/*--- ixla WebEasy Page Style ---*/
+
+
+.cc11               { /* Common */
+	font            : 22pt 'Impact';
+	color           : #800000;
+	}
+.cc12               { /* Common */
+	font            : 22pt 'Impact';
+	color           : #ff0000;
+	}
+.cc13               { /* Common */
+	border          :   0.00pt solid #800000;
+	clip            : rect(0.00pt,865.50pt,3.75pt,0.00pt);
+	}
+.cc14               { /* Common */
+	border          :   0.00pt solid #000028;
+	clip            : rect(0.00pt,648.75pt,17.25pt,0.00pt);
+	}
+div#e7              { /* TOP */
+	position        : absolute;
+	left            : 420.75pt;
+	top             : 954.75pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e6              { /* NEXT */
+	position        : absolute;
+	left            : 498.00pt;
+	top             : 956.25pt;
+	width           :  52.50pt;
+	height          :  27.75pt;
+	}
+div#e5              { /* BACK */
+	position        : absolute;
+	left            : 330.00pt;
+	top             : 954.75pt;
+	width           :  52.50pt;
+	height          :  27.00pt;
+	}
+span#e4             { /* jyoutyaku003004.gif */
+	background      : transparent url(jyoutyaku003004.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.75pt;
+	top             :  34.50pt;
+	width           : 865.50pt;
+	height          :   3.75pt;
+	}
+div#e3              { /* ípêJÇÃèˆíÖèóëï\ */
+	background      : transparent url(jyoutyaku003003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   5.25pt;
+	top             :  17.25pt;
+	width           : 141.00pt;
+	height          :  38.25pt;
+	}
+span#e2             { /* jyoutyaku003002.jpg */
+	background      : transparent url(jyoutyaku003002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 124.50pt;
+	top             :  51.00pt;
+	width           : 637.50pt;
+	height          : 876.75pt;
+	}
+span#e1             { /* jyoutyaku003001.gif */
+	background      : transparent url(jyoutyaku003001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 115.50pt;
+	top             :  42.75pt;
+	width           : 648.75pt;
+	height          :  17.25pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000124;
+	}
+
+
+
+/*--- EndOfFile ---*/

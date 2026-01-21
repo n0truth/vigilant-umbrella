@@ -1,0 +1,63 @@
+/*--- ixla WebEasy Page Style ---*/
+
+
+.cc124              { /* Common */
+	border          :   0.00pt solid #000024;
+	clip            : rect(0.00pt,653.25pt,15.75pt,0.00pt);
+	}
+.cc125              { /* Common */
+	font            : 22pt 'Impact';
+	color           : #800000;
+	}
+.cc126              { /* Common */
+	font            : 22pt 'Impact';
+	color           : #ff0000;
+	}
+.cc127              { /* Common */
+	font            : 11pt 'HG∫ﬁºØ∏E';
+	color           : #c0c0c0;
+	}
+span#e5             { /* jyoutyaku035002.gif */
+	background      : transparent url(jyoutyaku035002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 117.75pt;
+	top             :  15.75pt;
+	width           : 653.25pt;
+	height          :  15.75pt;
+	}
+span#e4             { /* jyoutyaku035001.jpg */
+	background      : transparent url(jyoutyaku035001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 132.75pt;
+	top             :  13.50pt;
+	width           : 625.50pt;
+	height          : 771.75pt;
+	}
+div#e3              { /* TOP */
+	position        : absolute;
+	left            : 468.00pt;
+	top             : 846.00pt;
+	width           :  52.50pt;
+	height          :  30.75pt;
+	}
+div#e2              { /* BACK */
+	position        : absolute;
+	left            : 377.25pt;
+	top             : 846.00pt;
+	width           :  52.50pt;
+	height          :  27.00pt;
+	}
+div#e1              { /* draw by milda7   Åuèóêlâ... */
+	position        : absolute;
+	left            : 543.75pt;
+	top             : 792.00pt;
+	width           : 216.00pt;
+	height          :  15.00pt;
+	}
+body#page           { /* Page Body */
+	background-color: #000124;
+	}
+
+
+
+/*--- EndOfFile ---*/
